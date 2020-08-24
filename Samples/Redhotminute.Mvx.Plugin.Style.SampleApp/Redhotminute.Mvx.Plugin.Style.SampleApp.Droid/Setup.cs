@@ -1,15 +1,10 @@
-using Android.Content;
-using Redhotminute.Mvx.Plugin.Style.Droid;
-using MvvmCross.IoC;
-using Redhotminute.Mvx.Plugin.Style.Droid.BindingSetup;
-using MvvmCross.Platforms.Android.Core;
-using MvvmCross.ViewModels;
-using MvvmCross.Binding;
-using MvvmCross.Logging;
-using Redhotminute.Mvx.Plugin.Style.Plugin;
-using MvvmCross.Core;
-using System.Reflection;
 using System.Linq;
+using System.Reflection;
+using MvvmCross.Binding;
+using MvvmCross.IoC;
+using MvvmCross.Platforms.Android.Core;
+using Redhotminute.Mvx.Plugin.Style.Droid.BindingSetup;
+using Redhotminute.Mvx.Plugin.Style.Plugin;
 
 namespace Redhotminute.Mvx.Plugin.Style.SampleApp.Droid
 {
