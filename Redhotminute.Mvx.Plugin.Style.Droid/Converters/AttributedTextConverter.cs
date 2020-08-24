@@ -1,9 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Globalization;
-using System.Linq;
 using Android.Content;
-using Android.Graphics;
 using Android.Text;
 using Android.Text.Style;
 using MvvmCross.Binding;
